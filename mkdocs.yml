@@ -2,6 +2,9 @@ site_name: 【内部版本，请勿泄露】一体机维护手册
 theme: material
 markdown_extensions:
   - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 nav:
   - 简介:

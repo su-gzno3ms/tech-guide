@@ -4,7 +4,7 @@
 # Bandizip 6
 界面美观，可配置性强，功能强大。基本上是个归档格式都能用这个软件打开。
 
-可以自定义代码页，对于解决一些打开在使用 *非 GBK/UTF-8 兼容* 编码的系统（如日文 Windows 使用的 Shift-JIS 编码）上创建的压缩文件出现文件名或文件内容乱码的情况很有帮助。
+可以自定义代码页，对于解决一些打开于使用 *非 GBK/UTF-8 兼容* 编码（如日文 Windows 使用的 Shift-JIS 编码）的系统上创建的压缩文件出现文件名或文件内容乱码的情况很有帮助。
 
 您可以在这里下载到此软件：[https://www.bandisoft.com/bandizip/old/6/](https://www.bandisoft.com/bandizip/old/6/)
 
@@ -14,9 +14,9 @@
 	![Step 2](./images/disable-bandizip-update-2.png)
 
 # 7zip
-<del>其实我知道再推荐一个你们也不会看的</del>
+~~其实我知道再推荐一个你们也不会看的~~
 
-<del>压缩软件管理器对大多数人而言就那么几个功能，推荐这么多真没意思</del>
+~~压缩软件管理器对大多数人而言就那么几个功能，推荐这么多真没意思~~
 
 这个软件胜在开源，体积小巧、跨平台（最近终于支持 Linux 了，可喜可贺可喜可贺）。
 
@@ -24,4 +24,4 @@
 
 您可以在这里下载到此软件：[https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
 
-<del>看不懂下载网页的话，你自个找你英语老师谢罪罢</del>
+~~看不懂下载网页的话，你自个找你英语老师谢罪罢~~

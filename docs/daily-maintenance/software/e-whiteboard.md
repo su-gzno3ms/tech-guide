@@ -3,6 +3,7 @@
 
 ## 希沃白板
 这个没什么好介绍的，好用就完事了。很多老师也会用这个软件做课件，属于必装系列。
+
 处于课件演示模式下时最小化窗口，可启动全局电子教鞭功能（就是可以在屏幕上随意写写画画）。
 
 您可以在这里下载到此软件：[https://easinote.seewo.com/](https://easinote.seewo.com/)
@@ -31,7 +32,7 @@
 # WPS Office
 免费的 Office 文档查看/编辑工具。就一体机的使用需求而言完全够用了。
 
-本身也是个广告软件，但好在可以关闭大多数广告（节假日还是会有）；具体操作过程请访问 [故障排除/清除系统内广告](javascript:alert("咕咕咕");) 。
+本身也是个广告软件，但好在可以关闭大多数广告（节假日还是会有）；具体操作过程请访问 [故障排除/清除系统内广告](#) 。
 
 之前对触屏毫无优化，新版本好了很多，但还是比 Microsoft Office 差。
 
@@ -59,4 +60,6 @@
 您可以在这里下载到此软件：[http://www.pointofix.de/download.php](http://www.pointofix.de/download.php)
 
 ## 语言包安装方法
-点击“Pointofix 1.8.0 deutsch - mit Setup / with setup”下方的蓝字下载软件本体，“Pointofix Sprachenpaket / Language Pack”下方的蓝字下载语言包。本体安装完毕后，长按/右键点击桌面上的 Pointofix 图标，点击“打开目标所在位置”进入软件目录，将语言包内的文件解压到此并重命名为`pointofix_translation.ini`即可。
+点击“Pointofix 1.8.0 deutsch - mit Setup / with setup”下方的蓝字下载软件本体，“Pointofix Sprachenpaket / Language Pack”下方的蓝字下载语言包。
+
+本体安装完毕后，长按/右键点击桌面上的 Pointofix 图标，点击“打开目标所在位置”进入软件目录，将语言包内的文件解压到此并重命名为`pointofix_translation.ini`即可。
