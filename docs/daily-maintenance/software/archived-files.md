@@ -9,7 +9,9 @@
 您可以在这里下载到此软件：[https://www.bandisoft.com/bandizip/old/6/](https://www.bandisoft.com/bandizip/old/6/)
 
 !!!important
-	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必关闭自动更新功能。
+	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必按照如下步骤关闭自动更新功能。
+	![Step 1](./images/disable-bandizip-update-1.png)
+	![Step 2](./images/disable-bandizip-update-2.png)
 
 # 7zip
 <del>其实我知道再推荐一个你们也不会看的</del>
