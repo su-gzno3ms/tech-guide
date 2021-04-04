@@ -1,0 +1,17 @@
+site_name: 【内部版本，请勿泄露】一体机维护手册
+theme: material
+markdown_extensions:
+  - admonition
+
+nav:
+  - 简介:
+    - 概述: index.md
+    - 如何贡献: how-to-contribute.md
+    - 联系我们: contact-us.md
+  - 日常维护:
+    - 软件篇:
+      - 电子白板: daily-maintenance/software/e-whiteboard.md
+      - Adobe Flash Player: daily-maintenance/software/flash.md
+      - 多媒体: daily-maintenance/software/multimedia.md
+      - 安全维护: daily-maintenance/software/security.md
+      - 压缩文件管理: daily-maintenance/software/archived-files.md
