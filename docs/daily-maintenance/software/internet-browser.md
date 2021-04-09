@@ -10,7 +10,7 @@
 安装完毕后，建议遵照 [故障排除/清除系统内广告](#) 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
 
 # Google Chrome
-Chromium 内核以及 V8 JavaScript 引擎的性能不是吹的，尽管 Firefox 天天说性能吊打 Chromium，实际上就低性能设备的实际体验而言，Firefox 还是比 Chromium 差。Google Chrome 是 Chromium 内核的完全体（区别和御坂妹和御坂美琴本人之间的差别差不多）
+Chromium 内核以及 V8 JavaScript 引擎的性能十分优秀，尽管 Firefox 声称性能强于 Chromium，实际上就低性能设备上的实际体验而言，Firefox 还是比 Chromium 差。Google Chrome 即是 Chromium 内核的完全体。（两者之间的区别和御坂妹和御坂美琴本人之间的差别差不多）
 
 值得注意的是，Google 的许多服务无法在中国大陆境内通过正常方式访问，所以使用此浏览器时可能会遇到一些问题。所以除非您有能力解决此问题，请还是使用上文的 Mozilla Firefox 国际版浏览器。
 
