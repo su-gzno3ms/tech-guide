@@ -6,4 +6,4 @@
 
 目前此输入法由华宇公司维护；此公司同时还开发了一系列面向政府部门的文字处理解决方案，并以此营利；故此款面向个人的免费产品得以保持纯净。
 
-您可以在这里下载到此软件：[https://pinyin.thunisoft.com/](https://pinyin.thunisoft.com/)
+您可以在这里下载到此软件：[https://pinyin.thunisoft.com/](https://pinyin.thunisoft.com/){: target="_blank" rel="noopener noreferrer" .external }

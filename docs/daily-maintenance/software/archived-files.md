@@ -6,7 +6,7 @@
 
 可以自定义代码页，对于解决一些打开于使用 *非 GBK/UTF-8 兼容* 编码（如日文 Windows 使用的 Shift-JIS 编码）的系统上创建的压缩文件出现文件名或文件内容乱码的情况很有帮助。
 
-您可以在这里下载到此软件：[https://www.bandisoft.com/bandizip/old/6/](https://www.bandisoft.com/bandizip/old/6/)
+您可以在这里下载到此软件：[https://www.bandisoft.com/bandizip/old/6/](https://www.bandisoft.com/bandizip/old/6/){: target="_blank" rel="noopener noreferrer" .external }
 
 !!!important
 	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必按照如下步骤关闭自动更新功能。
@@ -22,6 +22,6 @@
 
 但外观……怎么说呢？十分的复古。
 
-您可以在这里下载到此软件：[https://www.7-zip.org/download.html](https://www.7-zip.org/download.html)
+您可以在这里下载到此软件：[https://www.7-zip.org/download.html](https://www.7-zip.org/download.html){: target="_blank" rel="noopener noreferrer" .external }
 
 ~~看不懂下载网页的话，你自个找你英语老师谢罪罢~~

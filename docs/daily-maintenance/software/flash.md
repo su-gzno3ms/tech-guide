@@ -9,13 +9,13 @@ Flash Player 本身并没有广告，但自从 2018 年 2 月 28 日，Adobe将�
 **我们强烈反对安装此版本的 Flash Player。** 作为替代，我们建议安装网民发布的修改版 Flash Player。以下介绍详细的流程：
 
 ## 清除“中国大陆特供版” Flash Player
-1. 前往 [https://geekuninstaller.com/download](https://geekuninstaller.com/download) 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。）下载完毕后打开，在软件中找到第一个带有 `Adobe Flash Player` 字样的软件条目，双击它，将其卸载。卸载流程结束后，此软件会自动分析残留文件并显示出来，点按删除按钮。（请勿自作聪明一次性卸载所有 Flash Player 软件）
+1. 前往 [https://geekuninstaller.com/download](https://geekuninstaller.com/download){: target="_blank" rel="noopener noreferrer" .external } 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。）下载完毕后打开，在软件中找到第一个带有 `Adobe Flash Player` 字样的软件条目，双击它，将其卸载。卸载流程结束后，此软件会自动分析残留文件并显示出来，点按删除按钮。（请勿自作聪明一次性卸载所有 Flash Player 软件）
 2. 重新启动一体机，以确保所有组件已经成功完成反注册。这一步非常重要。
 3. 重复 1、2 步骤直到所有 Flash Player 软件都被卸载。
 
 ## 安装修改版 ActiveX 版 Flash Player
 1. 点击 [这里](#) 下载修改版的 Flash Player，按照常规安装方式安装。
-2. 使用 Internet Explorer 浏览器打开 [https://www.51zxw.net/test_flashplayer.html](https://www.51zxw.net/test_flashplayer.html)，确保能看到欢迎文字；这代表适用于 ActiveX 的 Flash Player 安装完成。
+2. 使用 Internet Explorer 浏览器打开 [https://www.51zxw.net/test_flashplayer.html](https://www.51zxw.net/test_flashplayer.html){: target="_blank" rel="noopener noreferrer" .external }，确保能看到欢迎文字；这代表适用于 ActiveX 的 Flash Player 安装完成。
 
 此时 Google Chrome（仅 Chrome 89 及以上版本，需要 PPAPI Flash）、Mozilla Firefox（需要 NPAPI Flash）等浏览器依然无法播放 Flash 内容。但目前 CCTV、哔哩哔哩弹幕视频网、腾讯视频等常用视频网站的播放器均已改用 HTML5 技术构建，故已无安装适用于这些浏览器的 Flash Player 之必要。
 
