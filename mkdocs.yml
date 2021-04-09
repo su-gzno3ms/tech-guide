@@ -14,6 +14,8 @@ nav:
   - 日常维护:
     - 软件篇:
       - 电子白板: daily-maintenance/software/e-whiteboard.md
+      - 输入法: daily-maintenance/software/input-method.md
+      - 浏览器: daily-maintenance/software/internet-browser.md
       - Adobe Flash Player: daily-maintenance/software/flash.md
       - 多媒体: daily-maintenance/software/multimedia.md
       - 安全维护: daily-maintenance/software/security.md

@@ -6,13 +6,15 @@
 这个软件大概是目前功能最为强大、配置最为简便的音视频播放器了。无论是普通视频容器的播放、还是具有复杂音频、视频轨道的容器，只要设置得当都能正常播放。
 由于种种原因，笔者本人并不喜欢这个软件。不过考虑到教育教学中的实际需求，还是在此推荐了该款软件。
 
-您可以在这里下载到此软件：[https://daumpotplayer.com/download/](https://daumpotplayer.com/download/)
+您可以在这里下载到此软件：[https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe](https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe)
 
 !!!important
-	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们建议下载 210209 版本－－最后一个带有 Flash 视频播放功能的版本，并禁用自动更新检查功能。
+	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。
+	![Step 1](./images/disable-potplayer-update-1.png)
+	![Step 2](./images/disable-potplayer-update-2.png)
 
 ## VLC media player
-相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；而且该软件还是开源的。
+相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；更何况该软件还是开源的。
 
 您可以在这里下载到此软件：[https://www.videolan.org/vlc/index.zh_CN.html](https://www.videolan.org/vlc/index.zh_CN.html)
 
