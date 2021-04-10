@@ -62,4 +62,4 @@
 ## 语言包安装方法
 点击“Pointofix 1.8.0 deutsch - mit Setup / with setup”下方的蓝字下载软件本体，“Pointofix Sprachenpaket / Language Pack”下方的蓝字下载语言包。
 
-本体安装完毕后，长按/右键点击桌面上的 Pointofix 图标，点击“打开目标所在位置”进入软件目录，将语言包内的文件解压到此并重命名为`pointofix_translation.ini`即可。
+本体安装完毕后，长按/右键点击桌面上的 Pointofix 图标，点击“打开目标所在位置”进入软件目录，将语言包内的文件 `pointofix_translation_zh-cn.ini` 解压到此并重命名为`pointofix_translation.ini`即可。
