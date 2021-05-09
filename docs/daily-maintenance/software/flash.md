@@ -26,4 +26,4 @@ Flash Player 本身并没有广告，但自从 2018 年 2 月 28 日，Adobe将�
 	![](./images/chrome-would-not-load-flash-contents.png)
 	![](./images/bilibili-has-removed-flash-player-support.png)
 
-关于娱乐网站上的 Flash 内容问题，我们请您注意：**在一体机上进行与教学无关的活动是被明令禁止的**，请规范自己的行为。
+关于娱乐网站上的 Flash 内容问题，我们请您注意：**在一体机上进行与教学无关的活动是被***明令禁止***的**，请规范自己的行为。
