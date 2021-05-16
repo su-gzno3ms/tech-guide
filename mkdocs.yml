@@ -21,3 +21,9 @@ nav:
       - 多媒体: daily-maintenance/software/multimedia.md
       - 安全维护: daily-maintenance/software/security.md
       - 压缩文件管理: daily-maintenance/software/archived-files.md
+
+    - 操作篇: 
+      - 微信 PC 版无法接收新信息时的解决方案 : daily-maintenance/operations/wechat-cannot-recieve-new-msg.md
+  
+  - 故障排除:
+    - 清除系统内广告: troubleshooting/clean-ads.md
