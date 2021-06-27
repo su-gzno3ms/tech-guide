@@ -6,7 +6,7 @@
 这个软件大概是目前功能最为强大、配置最为简便的音视频播放器了。无论是普通视频容器的播放、还是具有复杂音频、视频轨道的容器，只要设置得当都能正常播放。
 由于种种原因，笔者本人并不喜欢这个软件。不过考虑到教育教学中的实际需求，还是在此推荐了该款软件。
 
-您可以在这里下载到此软件：<Mhttps://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe>{: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe>{: target="_blank" rel="noopener noreferrer" .external }
 
 !!!important
 	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。
