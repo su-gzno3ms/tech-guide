@@ -6,7 +6,7 @@
 这个软件大概是目前功能最为强大、配置最为简便的音视频播放器了。无论是普通视频容器的播放、还是具有复杂音频、视频轨道的容器，只要设置得当都能正常播放。
 由于种种原因，笔者本人并不喜欢这个软件。不过考虑到教育教学中的实际需求，还是在此推荐了该款软件。
 
-您可以在这里下载到此软件：[https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe](https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<Mhttps://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe>{: target="_blank" rel="noopener noreferrer" .external }
 
 !!!important
 	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。
@@ -16,14 +16,14 @@
 ## VLC media player
 相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；更何况该软件还是开源的。
 
-您可以在这里下载到此软件：[https://www.videolan.org/vlc/index.zh_CN.html](https://www.videolan.org/vlc/index.zh_CN.html){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://www.videolan.org/vlc/index.zh_CN.html>{: target="_blank" rel="noopener noreferrer" .external }
 
 ## 爱奇艺万能联播
 比起 PotPlayer 和 VLC media player 毫无优势，介绍它纯粹是因为这是众多国产音视频播放器中最不流氓的一个。
 
 遇到复杂的视频容器时，播放可能出现问题（笔者实测这个软件在处理 HDR / Dolby Vision 内容和有多声道的视频时会出问题 ~~没错我就是在说《天气之子》的 BD 和 BBC 拍的纪录片~~）。
 
-您可以在这里下载到此软件：[https://static-s.iqiyi.com/wnbf/get.html](https://static-s.iqiyi.com/wnbf/get.html){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://static-s.iqiyi.com/wnbf/get.html>{: target="_blank" rel="noopener noreferrer" .external }
 
 注意：此软件还不务正业地加入了图片查看器功能，然而此功能完全没有对 Windows 7 的 Tablet PC 手势功能优化，导致在没有鼠标时要想缩放图片只能靠狂戳放大/缩小按钮。故安装时请注意取消勾选图片格式的文件关联。
 
@@ -36,4 +36,4 @@
 ## Honeyview
 这个软件比上文提到的 Windows 图片查看器支持的格式更多（不过对于电子白板而言几乎用不到）、颜色管理做的更好（不过就电子白板这屏幕素质，无论加载什么 ICC 配置文件都看不出差别吧？）。如果有专业的图片查看需求，建议使用这款软件。
 
-您可以在此下载到此软件：[https://www.bandisoft.com/honeyview/](https://www.bandisoft.com/honeyview/){: target="_blank" rel="noopener noreferrer" .external }
+您可以在此下载到此软件：<https://www.bandisoft.com/honeyview/>{: target="_blank" rel="noopener noreferrer" .external }

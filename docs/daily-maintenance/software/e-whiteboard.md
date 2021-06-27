@@ -6,7 +6,7 @@
 
 处于课件演示模式下时最小化窗口，可启动全局电子教鞭功能（就是可以在屏幕上随意写写画画）。
 
-您可以在这里下载到此软件：[https://easinote.seewo.com/](https://easinote.seewo.com/){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://easinote.seewo.com/>{: target="_blank" rel="noopener noreferrer" .external }
 
 ## 希沃轻白板
 如果老师只是为了在一体机上写板书，那使用此软件会更加方便。希沃轻白板本质上是希沃白板 3 去除课件编辑器等模块后的产物，仅保留了板书功能。无需登录希沃账号，且启动速度比希沃白板快 114514 倍。
@@ -15,19 +15,19 @@
 
 建议引（忽）导（悠）老师多用，既能保护环境，又能给值日生省下很多擦黑板的时间。
 
-您可以在这里下载到此软件：[https://e.seewo.com/product/EasiNote3c](https://e.seewo.com/product/EasiNote3c){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://e.seewo.com/product/EasiNote3c>{: target="_blank" rel="noopener noreferrer" .external }
 
 ## 希沃视频展台
 顾名思义，用于显示视频展台画面，还有一些实用的功能。
 
-您可以在这里下载到此软件：[https://e.seewo.com/product/EasiCamera](https://e.seewo.com/product/EasiCamera){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://e.seewo.com/product/EasiCamera>{: target="_blank" rel="noopener noreferrer" .external }
 
 ## 希沃授课助手
 用来投屏，展示手机上的照片、课件什么的。
 
 投屏功能稳定性一般。
 
-您可以在这里下载到此软件：[https://e.seewo.com/product/seewolink](https://e.seewo.com/product/seewolink){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://e.seewo.com/product/seewolink>{: target="_blank" rel="noopener noreferrer" .external }
 
 # WPS Office
 免费的 Office 文档查看 / 编辑工具。就一体机的使用需求而言完全够用了。
@@ -40,7 +40,7 @@
 
 当前版本的  WPS Office 播放视频时有时会出现音画异步的问题。如果此问题频繁出现，请考虑使用 Microsoft Office 等替代品。
 
-您可以在这里下载到此软件：[https://pc.wps.cn/](https://pc.wps.cn/){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<https://pc.wps.cn/>{: target="_blank" rel="noopener noreferrer" .external }
 
 # Microsoft Office
 纯粹的办公软件，不像 WPS Office 一样啥乱七八糟的功能都有（甚至内嵌了一个 Chromium 内核），也没有稀奇古怪的 Bug。
@@ -57,7 +57,7 @@
 
 软件本身是德语，安装完毕后需要安装语言包。
 
-您可以在这里下载到此软件：[http://www.pointofix.de/download.php](http://www.pointofix.de/download.php){: target="_blank" rel="noopener noreferrer" .external }
+您可以在这里下载到此软件：<http://www.pointofix.de/download.php>{: target="_blank" rel="noopener noreferrer" .external }
 
 ## 语言包安装方法
 点击“Pointofix 1.8.0 deutsch - mit Setup / with setup”下方的蓝字下载软件本体，“Pointofix Sprachenpaket / Language Pack”下方的蓝字下载语言包。
