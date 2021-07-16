@@ -25,7 +25,7 @@ nav:
 
     - 操作篇: 
       - 为触控操作优化设置: daily-maintenance/operations/optimize-for-touching-screen.md
-      - 微信 PC 版无法接收新信息时的解决方案 : daily-maintenance/operations/wechat-cannot-recieve-new-msg.md
   
   - 故障排除:
     - 清除系统内广告: troubleshooting/clean-ads.md
+    - 微信 PC 版无法接收新信息时的解决方案 : troubleshooting/wechat-cannot-recieve-new-msg.md
