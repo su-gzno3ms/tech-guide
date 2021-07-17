@@ -33,12 +33,11 @@
 
 ## 移除显而易见的广告软件
 
-1. 前往 <https://geekuninstaller.com/download> 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。），卸载所有不认识的软件。
-
 !!!note
     建议卸载所有的 2345 系软件、360 系软件以及除 WPS 以外的金山系软件。
-
     对于所有以 `Microsoft` 开头的软件，请不要随意卸载；这些软件通常是某些软件正常运行所必须的。
+    
+1. 前往 <https://geekuninstaller.com/download> 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。），卸载所有不认识的软件。
 
 2. 按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%temp%`，按下回车，并删除此目录下的所有内容；再次按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%systemroot%/Temp`，按下回车，并删除此目录下的所有内容。
 
