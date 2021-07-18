@@ -81,7 +81,8 @@
 ![](./images/exclude-explorer.png)
 ![](./images/exclude-search.png)
 ![](./images/exclude-non-file-creation.png)
-</br>操作完毕后点击 "OK" 关闭此窗口；
+
+  操作完毕后点击 "OK" 关闭此窗口；
 
 4. 删除前文步骤中发现的弹窗程序，等待此文件被再次生成。当此文件被生成时，此软件将立刻显示。（通常也可以忽略由 svchost.exe 进行的文件创建操作）右键点击/长按程序条目，点按 "Properties..." 打开属性窗口，在 "Path" 处可看到执行创建操作的软件路径。卸载此路径对应的软件即可。
 ![](./images/view-program-props.png)
