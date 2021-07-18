@@ -14,7 +14,7 @@
 	![Step 2](./images/disable-potplayer-update-2.png)
 
 ## VLC media player
-相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；不过不能使用Flash；更何况该软件还是开源的。
+相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；更何况该软件还是开源的。
 
 您可以在这里下载到此软件：<https://www.videolan.org/vlc/index.zh_CN.html>{: target="_blank" rel="noopener noreferrer" .external }
 
