@@ -39,7 +39,7 @@
 
 1. 前往 <https://geekuninstaller.com/download> 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。），卸载所有不认识的软件。
 
-2. 按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%temp%`，按下回车，并删除此目录下的所有内容；再次按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%systemroot%/Temp`，按下回车，并删除此目录下的所有内容。
+2. 按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%temp%`，按下回车，并删除此目录下的所有内容；再次按下 <kbd>Win</kbd> + <kbd>R</kbd> 键，输入 `%systemroot%/Temp`，按下回车，并删除此目录下的所有内容，对于提升“占用中”的内容，选择跳过即可。这两个目录分别存储用户和操作系统的临时文件，删除其中的文件不会对操作系统的运行造成任何影响。
 
 3. 重启计算机，再次执行步骤 2 中的操作。
 
@@ -77,7 +77,7 @@
 
 3. 在打开的事件筛选器窗口中，将第一个列表框设置为 "Path"，第二个设置为 "is"；在右侧的文本框中粘贴前文步骤中发现弹窗程序的路径。填写完毕后点按 "Add" 添加筛选器。
 ![](./images/set-filter.png)
-为了排除干扰，我们将 `Windows 资源管理器` 以及 `Windows 索引服务` 的进程从中排除，同时仅监视文件创建操作。按照下图设置即可。每填写一个都需要点按 "Add" 添加筛选器。
+为了排除干扰，我们将 “Windows 资源管理器” 以及 “Windows 索引服务” 的进程从列表中排除，同时仅监视文件创建操作。按照下图设置即可。每填写一个都需要点按 "Add" 添加筛选器。
 ![](./images/exclude-explorer.png)
 ![](./images/exclude-search.png)
 ![](./images/exclude-non-file-creation.png)

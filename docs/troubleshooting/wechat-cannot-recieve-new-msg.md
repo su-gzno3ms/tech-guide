@@ -17,10 +17,10 @@
 ![](./images/win7-wechat-files.png)
 ![](./images/win10-wechat-files.png)
 
-3. 在此文件夹中，你应该能看到若干个以 "wxid_" 开头的文件夹，选中它们，按下 "Shift + Delete" 键永久删除它们。
+3. 在此文件夹中，你应该能看到若干个以 "wxid_" 开头的文件夹，选中它们，按下 <kbd>Shift</kbd> + <kbd>Delete</kbd> 键永久删除它们。
 ![](./images/delete-users-folders.png)
 
-4. 重新登录微信，在移动设备端的登陆屏幕上**取消选中”同步消息“选项**，再次尝试查看新消息。
+4. 重新登录微信，在移动设备端的登陆屏幕上**取消选中“同步消息”选项**，再次尝试查看新消息。
 ![](./images/do-not-sync-messages.png)
 
 # 后记
