@@ -1,4 +1,5 @@
-site_name: 【内部版本，请勿泄露】电子白板维护手册
+site_name: 电子白板维护手册
+copyright: 本站所有内容均在 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="noopener noreferrer" target="_blank">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license" rel="noopener noreferrer" target="_blank">SATA</a> 协议条款下提供
 
 theme:
   name: material
@@ -7,6 +8,8 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.sections
+    - navigation.top
+    - toc.integrate
 
 repo_url: https://github.com/su-gzno3ms/tech-guide
 repo_name: su-gzno3ms/tech-guide
@@ -20,13 +23,16 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - footnotes
+  - toc: 
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
 
 nav:
   - 简介:
     - 概述: index.md
     - 如何贡献: how-to-contribute.md
     - 联系我们: contact-us.md
-    
+
   - 日常维护:
     - 软件篇:
       - 电子白板: daily-maintenance/software/e-whiteboard.md
@@ -38,7 +44,7 @@ nav:
       - 压缩文件管理: daily-maintenance/software/archived-files.md
     - 操作篇: 
       - 为触控操作优化设置: daily-maintenance/operations/optimize-for-touching-screen.md
-  
+
   - 故障排除:
     - 清除系统内广告: troubleshooting/clean-ads.md
     - 微信 PC 版无法接收新信息时的解决方案 : troubleshooting/wechat-cannot-recieve-new-msg.md
