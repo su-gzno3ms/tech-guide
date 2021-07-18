@@ -7,6 +7,9 @@
 # 改进此手册
 我们欢迎您对此手册的任何部分提出意见和建议。请阅读 [如何贡献](/how-to-contribute) 页面了解如何帮助改进此手册的内容。
 
+!!!note
+    请使用现代浏览器阅读本手册，否则您可能遇到排版问题。
+
 # 致谢
 此手册使用基于 [Python](https://www.python.org){: target="_blank" rel="noopener noreferrer" .external } 编程语言的 [MkDocs](https://www.mkdocs.org/){: target="_blank" rel="noopener noreferrer" .external } 软件构建，采用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/){: target="_blank" rel="noopener noreferrer" .external } 主题。感谢各软件的作者及开源社区的贡献。
 
