@@ -31,6 +31,7 @@ nav:
   - 简介:
     - 概述: index.md
     - 如何贡献: how-to-contribute.md
+    - 格式规范: format-specification.md
     - 联系我们: contact-us.md
 
   - 日常维护:
