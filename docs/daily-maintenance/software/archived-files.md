@@ -24,8 +24,8 @@
 	此软件的开发商 Bandisoft 近期宣布在 Bandizip 6 中发现了一个安全漏洞，并建议用户尽快升级至 Bandizip 7[^1]。考虑到 Bandizip 7 是付费软件，且官方未给出此“漏洞”的任何详细信息，请自行斟酌是否继续使用。
 
 !!!note
-	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必按照如下步骤关闭自动更新功能。
-	![Step 1](./images/disable-bandizip-update-1.png)
+	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必按照如下步骤关闭自动更新功能。  
+	![Step 1](./images/disable-bandizip-update-1.png)  
 	![Step 2](./images/disable-bandizip-update-2.png)
 
 [^1]: <https://www.bandisoft.com/bandizip/old/6/>{: target="_blank" rel="noopener noreferrer" .external }

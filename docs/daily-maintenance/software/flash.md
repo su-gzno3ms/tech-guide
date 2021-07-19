@@ -20,10 +20,9 @@ Flash Player 本身并没有广告，但自从 2018 年 2 月 28 日，Adobe将�
 此时 Google Chrome（仅 Chrome 89 及以上版本，需要 PPAPI Flash）、Mozilla Firefox（需要 NPAPI Flash）等浏览器依然无法播放 Flash 内容。但目前 CCTV、哔哩哔哩弹幕视频网、腾讯视频等常用视频网站的播放器均已改用 HTML5 技术构建，故已无安装适用于这些浏览器的 Flash Player 之必要。
 
 !!!note
-	实际上，Google Chrome[^2] 以及 Mozilla Firefox[^3] 已经停止了对 Flash Player 的支持；现在，它们不会加载 Flash Player ，从而不会播放任何 Flash 内容。哔哩哔哩弹幕视频网也停止了对 Flash Player 的支持，不支持 HTML 5 的浏览器（如 Internet Explorer）将无法播放视频。
-	
-	![](./images/firefox-would-not-load-flash.png)
-	![](./images/chrome-would-not-load-flash-contents.png)
+	实际上，Google Chrome[^2] 以及 Mozilla Firefox[^3] 已经停止了对 Flash Player 的支持；现在，它们不会加载 Flash Player ，从而不会播放任何 Flash 内容。哔哩哔哩弹幕视频网也停止了对 Flash Player 的支持，不支持 HTML 5 的浏览器（如 Internet Explorer）将无法播放视频。  
+	![](./images/firefox-would-not-load-flash.png)  
+	![](./images/chrome-would-not-load-flash-contents.png)  
 	![](./images/bilibili-has-removed-flash-player-support.png)
 
 关于娱乐网站上的 Flash 内容问题，我们请您注意：**在电子白板上进行与教学无关的活动是被明令禁止的**，请规范自己的行为。

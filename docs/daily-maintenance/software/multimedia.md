@@ -9,8 +9,8 @@
 您可以在这里下载到此软件：<https://daumpotplayer.com/wp-content/uploads/2020/12/PotPlayerSetup64.exe>{: target="_blank" rel="noopener noreferrer" .external }
 
 !!!important
-	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。
-	![Step 1](./images/disable-potplayer-update-1.png)
+	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。  
+	![Step 1](./images/disable-potplayer-update-1.png)  
 	![Step 2](./images/disable-potplayer-update-2.png)
 
 ## VLC media player
