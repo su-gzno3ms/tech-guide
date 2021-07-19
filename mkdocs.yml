@@ -5,11 +5,11 @@ theme:
   name: material
   language: zh
   features:
-    - navigation.instant
     - navigation.tabs
     - navigation.sections
     - navigation.top
     - toc.integrate
+  custom_dir: overrides
 
 repo_url: https://github.com/su-gzno3ms/tech-guide
 repo_name: su-gzno3ms/tech-guide
@@ -23,6 +23,7 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - footnotes
+  - meta
   - toc: 
       permalink: true
       slugify: !!python/name:pymdownx.slugs.uslugify

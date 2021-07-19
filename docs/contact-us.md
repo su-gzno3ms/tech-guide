@@ -1,3 +1,7 @@
+---
+nocomment: " "
+---
+
 !!!note
     我们建议您使用 [GitHub Issue](https://github.com/su-gzno3ms/tech-guide/issues){: target="_blank" rel="noopener noreferrer" .external } 的形式与编写组取得联系。但如果您在访问、使用 GitHub 时遇到困难，也可以使用此页面记载的方式联系编写组。
 
