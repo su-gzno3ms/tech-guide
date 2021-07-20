@@ -8,7 +8,7 @@ Flash Player 本身并没有广告，但自从 2018 年 2 月 28 日，Adobe 将
 
 **我们强烈反对安装此版本的 Flash Player。** 作为替代，我们建议安装网民发布的修改版 Flash Player。以下介绍详细的流程：
 
-## 清除“中国大陆特供版” Flash Player
+## 清除“中国大陆特供版”Flash Player
 1. 前往 <https://geekuninstaller.com/download>{: target="_blank" rel="noopener noreferrer" .external } 下载 Geek Uninstaller。（这是一个免费的软件卸载辅助工具，可以清理软件卸载后的残留文件。）下载完毕后打开，在软件中找到第一个带有“Adobe Flash Player”字样的软件条目，双击它，将其卸载。卸载流程结束后，此软件会自动分析残留文件并显示出来，点按删除按钮（请勿自作聪明一次性卸载所有 Flash Player 软件）；
 2. 重新启动一体机，以确保所有组件已经成功完成反注册。这一步非常重要；
 3. 重复 1、2 步骤直到所有 Flash Player 软件都被卸载。
