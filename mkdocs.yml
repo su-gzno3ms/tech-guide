@@ -1,33 +1,6 @@
 site_name: 电子白板维护手册
 copyright: 本站所有内容均在 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="noopener noreferrer" target="_blank">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license" rel="noopener noreferrer" target="_blank">SATA</a> 协议条款下提供
 
-theme:
-  name: material
-  language: zh
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - toc.integrate
-  custom_dir: overrides
-
-repo_url: https://github.com/su-gzno3ms/tech-guide
-repo_name: su-gzno3ms/tech-guide
-edit_uri: https://tech-guide.su-gzno3ms.lty.one/landing/?ref=
-#edit_uri: http://127.0.0.1:8000/landing/?ref=
-
-markdown_extensions:
-  - admonition
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - attr_list
-  - footnotes
-  - meta
-  - toc: 
-      permalink: true
-      slugify: !!python/name:pymdownx.slugs.uslugify
-
 nav:
   - 简介:
     - 概述: index.md
@@ -50,3 +23,30 @@ nav:
   - 故障排除:
     - 清除系统内广告: troubleshooting/clean-ads.md
     - 微信 PC 版无法接收新信息时的解决方案 : troubleshooting/wechat-cannot-recieve-new-msg.md
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+  custom_dir: overrides
+
+repo_url: https://github.com/su-gzno3ms/tech-guide
+repo_name: su-gzno3ms/tech-guide
+edit_uri: https://tech-guide.su-gzno3ms.lty.one/landing/?ref=
+#edit_uri: http://127.0.0.1:8000/landing/?ref=
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - meta
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc: 
+      permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify

@@ -2,6 +2,9 @@
 
 此页面讲述对本手册做出改进的具体过程，在编辑或新建页面前，请阅读本页面，以便您能够更好地进行改进。
 
+!!!important
+    在做出编辑之前，请查阅[本手册仓库的 Issues](https://github.com/su-gzno3ms/tech-guide/issues){: target="_blank" rel="noopener noreferrer" .external }，确认没有人在做和你一样的工作；然后，新建一个 Issue 记录你计划进行的编辑。
+
 # 对此手册做出改进需要什么
 虽然以下条件不是必要的，但这些条件可以帮助您更快捷地对本手册做出改进：
 
