@@ -3,7 +3,7 @@
 此页面讲述对本手册做出改进的具体过程，在编辑或新建页面前，请阅读本页面，以便您能够更好地进行改进。
 
 !!!important
-    在做出编辑之前，请查阅[本手册仓库的 Issues](https://github.com/su-gzno3ms/tech-guide/issues){: target="_blank" rel="noopener noreferrer" .external }，确认没有人在做和你一样的工作；然后，新建一个 Issue 记录你计划进行的编辑。
+    在做出编辑之前，请查阅 [本手册仓库的 Issues](https://github.com/su-gzno3ms/tech-guide/issues){: target="_blank" rel="noopener noreferrer" .external }，确认没有人在做和你一样的工作；然后，新建一个 Issue 记录你计划进行的编辑。
 
 # 对此手册做出改进需要什么
 虽然以下条件不是必要的，但这些条件可以帮助您更快捷地对本手册做出改进：
@@ -12,7 +12,7 @@
 
 - 拥有 GitHub 平台账号。为了辨识编辑者身份、记录每一个贡献者，以及防止大量恶意编辑请求出现，自行编辑手册内容需要登录后，在 GitHub 平台上完成。请放心，注册此账号仅需您提供一个电子邮箱地址；您在注册账号时所提交的信息均存储在美国 GitHub 公司的服务器上，我们不会，也不能获取您的任何个人信息。
 
-- 了解 Markdown 语法。本手册的内容格式使用此语法创建，如果您需要扩充页面内容，且您的需求在我们的 [格式规范](/format-specification) 中需要使用特定格式，那么您需要对其有基本的了解。如有需要，您可以访问 <https://markdown.tw>{: target="_blank" rel="noopener noreferrer" .external } 进行学习。
+- 了解 Markdown 语法。本手册的内容格式使用此语法创建，如果您需要扩充页面内容，且您的需求在我们的 [格式规范](/format-specifications) 中需要使用特定格式，那么您需要对其有基本的了解。如有需要，您可以访问 <https://markdown.tw>{: target="_blank" rel="noopener noreferrer" .external } 进行学习。
 
 # 对此手册内容做出简单改进
 有时您可能只是发现了本手册的某个页面存在文法错误、部分内容过时、图片出错等问题。在这种情况下，您可以直接使用 GitHub 平台对手册内容进行修改。
@@ -21,7 +21,7 @@
 
 1. 在您打算编辑的页面中，点按页面右上角的铅笔形“编辑此页”按钮；
 
-2. 阅读本页面以及 [格式规范](#) 后，点击“开始编辑”；
+2. 阅读本页面以及 [格式规范](/format-specifications) 后，点击“开始编辑”；
 
 3. 网页将跳转到 GitHub 平台，在此页面登录您的 GitHub 账户。此时 GitHub 会提示您必须先创建一个分支才能进行修改。点按绿色的 "Fork this repository" 按钮，然后在您的分支中对页面进行编辑；
 
@@ -44,7 +44,7 @@
 
 5. 向本手册仓库提交 Pull Request.
 
-关于此工具的具体使用方法，我们建议您阅读 [**OI Wiki** 上的 Git 页面](https://oi-wiki.org/tools/git/){: target="_blank" rel="noopener noreferrer" .external }。
+关于此工具的具体使用方法，我们建议您阅读 [**OI Wiki** 上的 "Git" 页面](https://oi-wiki.org/tools/git/){: target="_blank" rel="noopener noreferrer" .external }。
 
 
 如果您确实难以自行编辑本手册，也没有关系！您可以通过页面底部评论区和 “[联系我们](/contact-us)” 页面来与我们的维护团队取得联系，将您的想法告诉我们，我们将会帮您完成编辑工作。
