@@ -87,7 +87,7 @@
 ![](./images/uninstall.png)  
 !!!note
     上图仅为演示，实际操作时请使用 *Geek Uninstaller* 而非*控制面板*，以防残留。
-    卸载完广告软件后，如系统出现功能缺失（如卸载了压缩文件管理工具导致无法打开压缩文件），请参阅 [日常维护-软件篇](https://tech-guide.su-gzno3ms.lty.one/daily-maintenance/software/e-whiteboard/){: target="_blank" rel="noopener noreferrer" .external } 寻找替代品。
+    卸载完广告软件后，如系统出现功能缺失（如卸载了压缩文件管理工具导致无法打开压缩文件），请参阅 [日常维护-软件篇](https://tech-guide.su-gzno3ms.lty.one/daily-maintenance/software/e-whiteboard/) 寻找替代品。
 
 # 参考资料
 
