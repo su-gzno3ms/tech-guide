@@ -46,5 +46,4 @@
 
 关于此工具的具体使用方法，我们建议您阅读 [**OI Wiki** 上的 "Git" 页面](https://oi-wiki.org/tools/git/){: target="_blank" rel="noopener noreferrer" .external }。
 
-
 如果您确实难以自行编辑本手册，也没有关系！您可以通过页面底部评论区和 “[联系我们](/contact-us)” 页面来与我们的维护团队取得联系，将您的想法告诉我们，我们将会帮您完成编辑工作。
