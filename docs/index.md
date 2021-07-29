@@ -2,27 +2,6 @@
 nocomment: " "
 ---
 
-# 主要内容
-本手册由赣州市第三中学（青年路校区）学生会组织编写；旨在为电子白板的日常维护及故障排除提供易于理解的、可复制的解决方案，以便使得任何人都能较为轻松的解决电子白板日常使用过程中的问题，而不必过度依赖班级内的技术人员。
+本手册由赣州市第三中学（青年路校区）学生会组织编写；旨在为电子白板的日常维护及故障排除提供易于理解的、可复制的解决方案，以便使得任何人都能较为轻松的解决电子白板日常使用过程中的问题，提高电子化教学的效率；而不必过度依赖学校内的技术人员。
 
-本手册共两部分，第一部分“日常维护”主要介绍一些适合教育教学中使用的软件，以及一些能够提升使用体验的 ~~玄学~~ 操作。第二部分“故障排除”主要介绍电子白板使用过程中常见的故障以及解决方案。
-
-# 内容适用
-本手册所述的所有软件或操作步骤，如未特别声明，适用于*带有 Service Pack 1 的 64-bit Microsoft Windows 7 旗舰版*操作系统。
-
-# 改进此手册
-我们欢迎您对此手册的任何部分提出意见和建议。请阅读 [如何贡献](/how-to-contribute) 页面了解如何帮助改进此手册的内容。
-
-!!!note
-    请使用现代浏览器阅读本手册，否则您可能遇到排版问题。
-
-# 致谢
-此手册使用基于 [Python](https://www.python.org){: target="_blank" rel="noopener noreferrer" .external } 编程语言的 [MkDocs](https://www.mkdocs.org/){: target="_blank" rel="noopener noreferrer" .external } 软件构建，采用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/){: target="_blank" rel="noopener noreferrer" .external } 主题。感谢各软件的作者及开源社区的贡献。
-
-在计划创建在线版本时，我们参考了编程竞赛知识整合站点 [**OI Wiki**](https://oi-wiki.org){: target="_blank" rel="noopener noreferrer" .external } 的技术架构，同时引用了来自该网站的部分内容。在此向该网站的管理团队及所有贡献者表示感谢。
-
-此手册的所有源文件存储于源代码托管服务平台 [GitHub](https://github.com/){: target="_blank" rel="noopener noreferrer" .external }，感谢 GitHub Inc. 提供此项服务。
-
-此手册的在线版本使用 [Netlify](https://www.netlify.com/){: target="_blank" rel="noopener noreferrer" .external } 生成并托管至其 CDN，感谢 Netlify Inc. 提供此项服务。
-
-最后，还要感谢本手册的所有读者以及贡献者们，是你们让这个手册始终保持生机。
+请点按页面下方的指示器，继续阅读本手册。您也可以通过页面上方（在移动设备上则位于侧边）的导航栏和搜索框，以及页面侧边的目录链接来检索您想阅读的内容。
