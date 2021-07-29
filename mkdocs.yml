@@ -1,4 +1,5 @@
 site_name: 电子白板维护手册
+site_url: https://tech-guide.su-gzno3ms.lty.one
 copyright: 本站所有内容均在 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" rel="noopener noreferrer" target="_blank">CC BY-SA 4.0</a> 和 <a href="https://github.com/zTrix/sata-license" rel="noopener noreferrer" target="_blank">SATA</a> 协议条款下提供
 
 nav:
@@ -38,13 +39,13 @@ theme:
       scheme: default
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: 暗色模式
     - media: "(prefers-color-scheme: dark)"
       primary: teal
       scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: 亮色模式
 
 repo_url: https://github.com/su-gzno3ms/tech-guide
 repo_name: su-gzno3ms/tech-guide
