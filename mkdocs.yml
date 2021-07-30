@@ -38,13 +38,13 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: 暗色模式
     - media: "(prefers-color-scheme: dark)"
       primary: teal
       scheme: slate
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: 亮色模式
 
 repo_url: https://github.com/su-gzno3ms/tech-guide
