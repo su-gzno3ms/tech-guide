@@ -7,12 +7,12 @@ nocomment: " "
 
 您可以通过以下方式联系手册编写组成员：
 
-# 总编辑
+## 总编辑
 
 - 电子邮箱：[xkww3n@outlook.com](mailto:xkww3n@outlook.com)
 - Telegram（可能不适用于部分国家、地区的居民）：[@xkww3n](https://t.me/xkww3n){: target="_blank" rel="noopener noreferrer" .external }
 
-# 负责人
+## 负责人
 
 - QQ：3216839935
 - 电子邮箱：[lmz3216839935@163.com](mailto:lmz3216839935@163.com)

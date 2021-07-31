@@ -2,7 +2,7 @@
 nocomment: " "
 ---
 
-# 编辑前须知
+## 编辑前须知
 首先，感谢您愿意为此手册做出改进。
 
 在开始之前，请您阅读 [如何贡献](/how-to-contribute) 和 [格式规范](/format-specification) 页面，以便更有效地进行编辑
