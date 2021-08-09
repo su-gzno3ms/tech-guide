@@ -13,7 +13,7 @@
 ## 部署
 本站使用 [MkDocs](https://www.mkdocs.org/) 部署在 [tech-guide.su-gzno3ms.lty.one](https://tech-guide.su-gzno3ms.lty.one/) .
 
-您也可以选择在本地部署一份副本，便于及时看到您修改的结果。对于 Windows 操作系统,具体方式如下（需先安装 Python 3）：
+您也可以选择在本地部署一份副本，便于及时看到您修改的结果。对于 Windows 操作系统，具体方式如下（需先安装 Python 3）：
 
 ```bash
 git clone https://github.com/su-gzno3ms/tech-guide.git
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 mkdocs serve
 ```
 
-对于大部分 Linux 发行版,具体操作如下（需先安装 Python 3, pip3 与 virtualenv）:
+对于大部分 Linux 发行版，具体操作如下（需先安装 Python 3, pip3 与 virtualenv）:
 
 ```bash
 git clone https://github.com/su-gzno3ms/tech-guide.git
