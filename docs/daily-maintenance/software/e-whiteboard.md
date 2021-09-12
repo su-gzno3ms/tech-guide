@@ -29,6 +29,14 @@
 
 您可以在这里下载到此软件：<https://e.seewo.com/product/seewolink>{: target="_blank" rel="noopener noreferrer" .external }
 
+## MobiSystems OfficeSuite
+此软件和 WPS Office 一样几乎完美兼容 Office 格式，而相比 WPS Office 而言，此软件除激活提示之外，没有任何广告；相比 Microsoft Office ，此软件更加轻量，对性能的要求也更低，且体验几乎一致。
+
+此软件是付费软件，但在激活前可以免费使用基本的编辑和查看功能，就电子白板的使用场景而言完全足够。
+
+我们强烈推荐在电子白板上使用此软件阅读 Word 文档、PowerPoint 幻灯片以及 Excel 表格。
+
+您可以在这里下载到此软件：<https://www.officesuite.com/cn/?&tz=Asia/Shanghai>{: target="_blank" rel="noopener noreferrer" .external }，安装完成后如出现登陆账户或激活软件等提示，直接点按左上角的 × 号关闭即可。
 ## WPS Office
 免费的 Office 文档查看 / 编辑工具。就一体机的使用需求而言完全够用了。
 
