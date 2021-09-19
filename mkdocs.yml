@@ -11,6 +11,7 @@ nav:
 
   - 日常维护:
     - 软件篇:
+      - 面向 32 位操作系统用户的提示: daily-maintenance/software/notice-for-32bit-os.md
       - 电子白板: daily-maintenance/software/e-whiteboard.md
       - 输入法: daily-maintenance/software/input-method.md
       - 浏览器: daily-maintenance/software/internet-browser.md
