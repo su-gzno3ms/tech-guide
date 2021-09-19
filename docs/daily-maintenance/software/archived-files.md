@@ -4,6 +4,15 @@
 !!!note
 	考虑到 Bandizip 6 可能存在的安全问题，我们将其推荐优先级降低了。
 
+## PeaZip
+此软件兼具下文提到的 7zip 和 Bandizip 两个软件的优点——开源免费，设计优良。
+
+您可以在这里下载到此软件：<https://peazip.github.io/peazip-64bit.html>{: target="_blank" rel="noopener noreferrer" .external }
+
+安装过程中请自行将语言设置为"CHS - Chinese Simplified"（简体中文）
+
+![](./images/peazip-language.png)
+
 ## 7zip
 这个软件胜在开源、体积小巧、跨平台（最近终于支持 Linux 了，可喜可贺可喜可贺）。
 
