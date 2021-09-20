@@ -20,6 +20,7 @@ nav:
       - 安全维护: daily-maintenance/software/security.md
       - 压缩文件管理: daily-maintenance/software/archived-files.md
     - 操作篇: 
+      - 性能优化提示: daily-maintenance/operations/performance.md
       - 为触控操作优化设置: daily-maintenance/operations/optimize-for-touching-screen.md
 
   - 故障排除:
