@@ -55,9 +55,6 @@ mkdocs serve
 
 - 为本站的 GitHub 仓库点赞（Star）。
 
-## 改进此手册
-我们欢迎您对此手册的任何部分提出意见和建议。请阅读 [如何贡献](https://tech-guide.su-gzno3ms.lty.one/how-to-contribute) 页面了解如何帮助改进此手册的内容。
-
 ## 致谢
 此手册使用基于 [Python](https://www.python.org) 编程语言的 [MkDocs](https://www.mkdocs.org/) 软件构建，采用 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 主题，同时采用了大量开源、闭源的软件辅助我们的工作。在此感谢各软件的作者及开源社区。
 
