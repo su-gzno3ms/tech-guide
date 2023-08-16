@@ -19,4 +19,4 @@ Chromium 内核以及 V8 JavaScript 引擎的性能十分优秀，尽管 Mozilla
 安装完毕后，建议遵照 [故障排除/清除系统内广告](../../troubleshooting/clean-ads.md){: target="_blank" rel="noopener noreferrer" .external } 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
 
 [^1]: <https://www.cnbeta.com/articles/tech/1059599.htm>{: target="_blank" rel="noopener noreferrer" .external }
-[^2]: <https://www.ifanr.com/1383054>{: target="_blank" rel="noopener noreferrer" .external }
+[^2]: <https://www.51cto.com/article/688295.html>{: target="_blank" rel="noopener noreferrer" .external }
