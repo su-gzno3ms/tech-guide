@@ -10,8 +10,8 @@
 
 !!!important
 	PotPlayer 于 210127 版本移除了播放 Flash 视频的功能，故我们给出的是下载 210209 版本——最后一个带有 Flash 视频播放功能的版本的链接。安装完毕后，请务必按照如下步骤关闭自动更新功能。  
-	![Step 1](./images/disable-potplayer-update-1.png)  
-	![Step 2](./images/disable-potplayer-update-2.png)
+	![Step 1](./images/disable-potplayer-update-1.png){: style="width: 50%" }  
+	![Step 2](./images/disable-potplayer-update-2.png){: style="width: 50%" }
 
 ### VLC media player
 相比 PotPlayer 更弱一点（毕竟前者是用了 ffmpeg 的解码器还不开源的屑软件。而 VLC 虽说可以有 ffmpeg 的合法加持，但 VideoLAN 团队还是无比敬业地自己写了大部分解码器的代码），但日常使用还是毫无问题的；更何况该软件还是开源的；不过该软件没有播放 Flash 视频的功能。

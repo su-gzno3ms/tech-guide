@@ -11,7 +11,7 @@
 
 安装过程中请自行将语言设置为"CHS - Chinese Simplified"（简体中文）
 
-![](./images/peazip-language.png)
+![](./images/peazip-language.png){: style="width: 50%" }
 
 ## 7zip
 这个软件胜在开源、体积小巧、跨平台（最近终于支持 Linux 了，可喜可贺可喜可贺）。
@@ -34,7 +34,7 @@
 
 !!!note
 	Bandizip 7 及后续版本开始添加广告，必须付费购买许可证才能去除。故此处给出的下载链接是官方保留的，最后一个无广告版本的下载地址。安装完后请务必按照如下步骤关闭自动更新功能。  
-	![Step 1](./images/disable-bandizip-update-1.png)  
-	![Step 2](./images/disable-bandizip-update-2.png)
+	![Step 1](./images/disable-bandizip-update-1.png){: style="width: 50%" }  
+	![Step 2](./images/disable-bandizip-update-2.png){: style="width: 50%" }
 
 [^1]: <https://www.bandisoft.com/bandizip/old/6/>{: target="_blank" rel="noopener noreferrer" .external }

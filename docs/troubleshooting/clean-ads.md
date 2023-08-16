@@ -14,17 +14,17 @@
 此软件所带的广告能以简单的方式移除。以下介绍方法。
 
 1. 打开开始菜单，在 "WPS Office" > "WPS Office 工具" 文件夹中找到“配置工具”并打开。在弹出的窗口中点按“高级...”；  
-![](./images/open-wps-cfg.png)
+![](./images/open-wps-cfg.png){: style="width: 50%" }
 
 2. 切换到“其他选项”选项卡，勾选“关闭WPS热点”和“关闭广告弹窗推送”选项卡，点按“确定”，关闭配置工具。  
-![](./images/close-wps-ad.png)
+![](./images/close-wps-ad.png){: style="width: 50%" }
 
 ## 为浏览器安装去广告扩展程序
 
 浏览器中的网页广告同样不容忽视，此类广告有时比桌面弹窗广告更具破坏性，严重时甚至可能卡死整个系统。以下以 Mozilla Firefox 浏览器为例，介绍通过安装去广告扩展程序去除网页广告的方法。
 
 1. 打开 Mozilla Firefox，访问 <https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/>{: target="_blank" rel="noopener noreferrer" .external }，点按网页中的“添加到 Firefox”，即可安装 uBlock Origin 扩展程序。  
-![](./images/add-ublock.png)
+![](./images/add-ublock.png){: style="width: 50%" }
 
 对于其他浏览器（如 Google Chrome 浏览器），也可进入浏览器官方提供的扩展程序下载网站，搜索此扩展程序并添加。添加完成后，通常无需附加设置即可开始使用。
 
@@ -52,16 +52,16 @@
 前文所述的步骤可以移除大多数广告软件，但也有部分软件对自身的伪装较好，导致无法通过上述步骤卸载。此时请遵循以下步骤。
 
 1. 访问 <https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer>{: target="_blank" rel="noopener noreferrer" .external }，点按 "Run now from Sysinternals Live." 的蓝色超链接，下载 Process Monitor 软件；  
-![](./images/download-processxp.png)
+![](./images/download-processxp.png){: style="width: 50%" }
 
 2. 重启计算机，等待广告弹窗出现；  
-![](./images/ad-window.jpg)
+![](./images/ad-window.jpg){: style="width: 50%" }
 
 3. 当广告弹窗出现时，右键单击/长按软件图标，选择“以管理员身份运行”，打开 Process Monitor（首次运行此软件会要求阅读一份许可协议，阅读完毕后点按 "Agree" 即可），将工具栏的十字准星按钮拖动到广告窗口上；  
-![](./images/drag-to-ad-window.jpg)
+![](./images/drag-to-ad-window.jpg){: style="width: 50%" }
 
 4. Process Explorer 将会高亮显示此弹窗对应的程序条目，右键单击/长按此条目，点按 "Properties..." 选项，在弹出的属性窗口中即可看到创建此弹窗的程序之路径。点按右侧的 "Explore" 打开此路径，按照上文所述步骤卸载对应此路径的软件即可。  
-![](./images/view-the-props.png)
+![](./images/view-the-props.png){: style="width: 50%" }
 
 #### 如果此广告程序路径不属于任何软件
 
@@ -72,19 +72,19 @@
 1. 访问 <https://docs.microsoft.com/en-us/sysinternals/downloads/procmon>{: target="_blank" rel="noopener noreferrer" .external }，使用和前文相同的方法下载 Process Monitor 软件；
 
 2. 打开此软件（此软件会自动请求管理员权限），点按工具栏上的 "Filter" > "Filter..." 打开事件筛选器；  
-![](./images/open-filter.png)
+![](./images/open-filter.png){: style="width: 50%" }
 
 3. 在打开的事件筛选器窗口中，将第一个列表框设置为 "Path"，第二个设置为 "is"；在右侧的文本框中粘贴前文步骤中发现弹窗程序的路径。填写完毕后点按 "Add" 添加筛选器；  
-![](./images/set-filter.png)  
+![](./images/set-filter.png){: style="width: 50%" }  
 为了排除干扰，我们将 “Windows 资源管理器” 以及 “Windows 索引服务” 的进程从列表中排除，同时仅监视文件创建操作。按照下图设置即可。每填写一个都需要点按 "Add" 添加筛选器。  
-![](./images/exclude-explorer.png)  
-![](./images/exclude-search.png)  
-![](./images/exclude-non-file-creation.png)  
+![](./images/exclude-explorer.png){: style="width: 50%" }  
+![](./images/exclude-search.png){: style="width: 50%" }  
+![](./images/exclude-non-file-creation.png){: style="width: 50%" }  
 操作完毕后点击 "OK" 关闭此窗口；
 
 4. 删除前文步骤中发现的弹窗程序，等待此文件被再次生成。当此文件被生成时，此软件将立刻显示。（通常也可以忽略由 svchost.exe 进行的文件创建操作）右键点击/长按程序条目，点按 "Properties..." 打开属性窗口，在 "Path" 处可看到执行创建操作的软件路径。卸载此路径对应的软件即可。  
-![](./images/view-program-props.png)  
-![](./images/uninstall.png)  
+![](./images/view-program-props.png){: style="width: 50%" }  
+![](./images/uninstall.png){: style="width: 50%" }  
 !!!note
     上图仅为演示，实际操作时请使用 *Geek Uninstaller* 而非*控制面板*，以防残留。
     卸载完广告软件后，如系统出现功能缺失（如卸载了压缩文件管理工具导致无法打开压缩文件），请参阅 [日常维护-软件篇](https://tech-guide.su-gzno3ms.lty.one/daily-maintenance/software/e-whiteboard/) 寻找替代品。

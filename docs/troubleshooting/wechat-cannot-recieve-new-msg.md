@@ -11,17 +11,17 @@
     尽管微信 Windows 版允许与移动设备同步消息，但据笔者的亲身经历，此方法依然**存在丢失消息的风险**。请务必在操作之前**手动备份重要消息**！
 
 1. 从任务栏中退出微信；  
-![](./images/exit-wechat.png)
+![](./images/exit-wechat.png){: style="width: 50%" }
 
 2. 打开“计算机”（Windows 10 上被称作“此电脑”），点按侧边栏的“文档”列表项，打开当前用户的文档目录。在这里你应该可以看到一个叫做 "WeChat Files" 的文件夹，打开它；  
-![](./images/win7-wechat-files.png)  
-![](./images/win10-wechat-files.png)
+![](./images/win7-wechat-files.png){: style="width: 50%" }  
+![](./images/win10-wechat-files.png){: style="width: 50%" }
 
 3. 在此文件夹中，你应该能看到若干个以 "wxid_" 开头的文件夹，选中它们，按下 <kbd>Shift</kbd> + <kbd>Delete</kbd> 键永久删除它们；  
-![](./images/delete-users-folders.png)
+![](./images/delete-users-folders.png){: style="width: 50%" }
 
 4. 重新登录微信，在移动设备端的登陆屏幕上**取消选中“同步消息”选项**，再次尝试查看新消息。  
-![](./images/do-not-sync-messages.png)
+![](./images/do-not-sync-messages.png){: style="width: 50%" }
 
 ## 后记
 微信是一个非常糟糕的即时通讯软件，无论是其 PC（含 Mac） 端还是移动（Android 和 iOS）端都缺乏作为一个“小而美”的“国民级聊天软件”所必备的素质，尤其不适合用于学校这种多部门协作办公场景。
