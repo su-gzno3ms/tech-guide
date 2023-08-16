@@ -7,7 +7,7 @@
 
 您可以在这里下载到此软件：<https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=zh-CN>{: target="_blank" rel="noopener noreferrer" .external }
 
-安装完毕后，建议遵照 [故障排除/清除系统内广告](/troubleshooting/clean-ads/){: target="_blank" rel="noopener noreferrer" .external } 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
+安装完毕后，建议遵照 [故障排除/清除系统内广告](../../troubleshooting/clean-ads.md){: target="_blank" rel="noopener noreferrer" .external } 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
 
 ## Google Chrome
 Chromium 内核以及 V8 JavaScript 引擎的性能十分优秀，尽管 Mozilla 基金会声称 Firefox 浏览器使用的 Gecko 内核性能强于 Chromium，实际上就低性能设备上的实际体验而言，Gecko 还是比 Chromium 差。Google Chrome 即是 Chromium 内核的完全体。（两者之间的区别和御坂妹和御坂美琴本人之间的差别差不多）
@@ -16,7 +16,7 @@ Chromium 内核以及 V8 JavaScript 引擎的性能十分优秀，尽管 Mozilla
 
 您可以在这里下载到此软件：<https://www.google.cn/intl/zh-CN/chrome/>{: target="_blank" rel="noopener noreferrer" .external }
 
-安装完毕后，建议遵照 [故障排除/清除系统内广告](/troubleshooting/clean-ads/){: target="_blank" rel="noopener noreferrer" .external } 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
+安装完毕后，建议遵照 [故障排除/清除系统内广告](../../troubleshooting/clean-ads.md){: target="_blank" rel="noopener noreferrer" .external } 中的步骤，安装去广告扩展程序，这不仅可以避免一些尴尬情况，还能够有效提升访问部分站点时的性能。
 
 [^1]: <https://www.cnbeta.com/articles/tech/1059599.htm>{: target="_blank" rel="noopener noreferrer" .external }
-[^2]: <https://www.solidot.org/story?sid=37355>{: target="_blank" rel="noopener noreferrer" .external }
+[^2]: <https://www.ifanr.com/1383054>{: target="_blank" rel="noopener noreferrer" .external }
