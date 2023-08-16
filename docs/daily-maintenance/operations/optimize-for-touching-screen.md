@@ -35,7 +35,7 @@ Windows 默认的“列表”视图非常不适合在触摸设备上使用，因
 
 ![](./images/adjust-winexplorer-view-1.png){: style="width: 50%" }
 
-接下来，按下 <kbd>Alt</kbd> 键（可以使用物理键盘或 Tablet PC 输入面板。在使用后者时，请注意需要触摸两次 <kbd>Alt</kbd> 按钮以解除该键的锁定状态），此时 Windows 资源管理器会显示其工具栏，依此点击“工具”>“文件夹选项”打开“文件夹选项”设置；
+接下来，按下 ++alt++ 键（可以使用物理键盘或 Tablet PC 输入面板。在使用后者时，请注意需要触摸两次 ++alt++ 按钮以解除该键的锁定状态），此时 Windows 资源管理器会显示其工具栏，依此点击“工具”>“文件夹选项”打开“文件夹选项”设置；
 
 ![](./images/adjust-winexplorer-view-2.png){: style="width: 50%" }
 
